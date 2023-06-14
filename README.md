@@ -15,6 +15,9 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=mmirkurbonov)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mirganimirkurbonov&icon=3&color=3)](https://visitcount.itsvg.in)
 
